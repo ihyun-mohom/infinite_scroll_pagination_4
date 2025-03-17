@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
-import 'package:infinite_scroll_pagination/src/utils/appended_sliver_grid.dart';
+import 'package:infinite_scroll_pagination_4/infinite_scroll_pagination.dart';
+import 'package:infinite_scroll_pagination_4/src/utils/appended_sliver_grid.dart';
 
 typedef SliverSimpleGridDelegateBuilder = SliverSimpleGridDelegate Function(
   int childCount,

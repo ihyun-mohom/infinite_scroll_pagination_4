@@ -2,7 +2,7 @@ import 'package:infinite_example/remote/item.dart';
 import 'package:infinite_example/remote/api.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
+import 'package:infinite_scroll_pagination_4/infinite_scroll_pagination.dart';
 
 class PageViewScreen extends StatefulWidget {
   const PageViewScreen({super.key});

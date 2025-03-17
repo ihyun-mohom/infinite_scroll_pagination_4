@@ -2,13 +2,13 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
-import 'package:infinite_scroll_pagination/src/utils/listenable_listener.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/default_status_indicators/first_page_error_indicator.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/default_status_indicators/first_page_progress_indicator.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/default_status_indicators/new_page_error_indicator.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/default_status_indicators/new_page_progress_indicator.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/default_status_indicators/no_items_found_indicator.dart';
+import 'package:infinite_scroll_pagination_4/infinite_scroll_pagination.dart';
+import 'package:infinite_scroll_pagination_4/src/utils/listenable_listener.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/default_status_indicators/first_page_error_indicator.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/default_status_indicators/first_page_progress_indicator.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/default_status_indicators/new_page_error_indicator.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/default_status_indicators/new_page_progress_indicator.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/default_status_indicators/no_items_found_indicator.dart';
 import 'package:sliver_tools/sliver_tools.dart';
 
 typedef CompletedListingBuilder = Widget Function(

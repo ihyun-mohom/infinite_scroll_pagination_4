@@ -1,9 +1,9 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/widgets.dart';
-import 'package:infinite_scroll_pagination/src/core/paged_child_builder_delegate.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_controller.dart';
-import 'package:infinite_scroll_pagination/src/widgets/helpers/paged_layout_builder.dart';
-import 'package:infinite_scroll_pagination/src/widgets/layouts/paged_sliver_grid.dart';
+import 'package:infinite_scroll_pagination_4/src/core/paged_child_builder_delegate.dart';
+import 'package:infinite_scroll_pagination_4/src/core/paging_controller.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/helpers/paged_layout_builder.dart';
+import 'package:infinite_scroll_pagination_4/src/widgets/layouts/paged_sliver_grid.dart';
 
 /// A [GridView] with pagination capabilities.
 ///
